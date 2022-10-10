@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miguel
-- 👀 I’m interested in Lanage Learning
+- 👀 I’m interested in Language Learning
 - 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on Java web development
 - 📫 How to reach me 13104391508@163.com
